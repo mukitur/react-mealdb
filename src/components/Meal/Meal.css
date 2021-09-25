@@ -1,0 +1,8 @@
+.meal-container{
+    display: flex;
+    grid-gap: 15px;
+    margin: 20px;
+}
+.meal-container img{
+    width: 300px;
+}
